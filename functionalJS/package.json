@@ -1,8 +1,8 @@
 {
-  "name": "higherOrderFunctions",
+  "name": "javaScriptTutotials",
   "version": "1.0.0",
   "description": "",
-  "main": "higherOrderFunctions.js",
+  "main": "javaScriptTutotials.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
